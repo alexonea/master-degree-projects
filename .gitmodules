@@ -1,0 +1,3 @@
+[submodule "Y1/S2/LteBasicScheduler"]
+	path = Y1/S2/LteBasicScheduler
+	url = https://github.com/alexonea/LteBasicScheduler.git
