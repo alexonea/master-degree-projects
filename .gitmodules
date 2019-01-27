@@ -1,3 +1,20 @@
 [submodule "Y1/S2/LteBasicScheduler"]
 	path = Y1/S2/LteBasicScheduler
 	url = https://github.com/alexonea/LteBasicScheduler.git
+[submodule "Y2/S1/AAI/wumpus"]
+	path = Y2/S1/AAI/wumpus
+	url = https://github.com/alexonea/wumpsim.git
+[submodule "Y2/S1/AAI/xbar"]
+	path = Y2/S1/AAI/xbar
+	url = https://github.com/alexonea/libxbar.git
+	branch = develop
+[submodule "Y2/S1/AAI/eliza"]
+	path = Y2/S1/AAI/eliza
+	url = https://github.com/alexonea/eliza-learns-cpp.git
+[submodule "Y2/S1/AAI/stimulus-response"]
+	path = Y2/S1/AAI/stimulus-response
+	url = https://github.com/alexonea/stimulus-response-dummy.git
+[submodule "Y2/S1/AAI/neural-networks"]
+	path = Y2/S1/AAI/neural-networks
+	url = https://github.com/alexonea/basic-neural-network.git
+	branch = develop
